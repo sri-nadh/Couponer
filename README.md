@@ -1,6 +1,6 @@
 # couponer
 
-A new Flutter project.
+A new Flutter Application to exchange coupons online.
 
 ## Getting Started
 

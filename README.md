@@ -1,16 +1,17 @@
-# couponer
+# Couponer
+<br>
 
-A new Flutter Application to exchange coupons online.
+* It's a Flutter based Web Application to exchange coupons online.<br>
+* An E-commerce app where people can exchange or buy coupons of their choice.<br>
+* Customers can add or buy new coupens provided they are valid.<br>
+* A review time is taken to check whether the coupons are valid or not.<br>
+* Customers can add their demands for exchanging coupon , specifying their interested type of coupons.<br>
 
-## Getting Started
+Project is on Development.<br>
+UI Almost done.<br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
